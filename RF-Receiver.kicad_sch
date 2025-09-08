@@ -6402,6 +6402,28 @@
 			)
 		)
 	)
+	(global_label "VCC"
+		(shape input)
+		(at 104.14 51.562 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "311c2b18-2a3d-468d-8285-9d0a25c06c5b")
+		(property "Intersheetrefs" "VCC"
+			(at 104.14 44.9482 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 43.942 111.76 0)
@@ -6486,28 +6508,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Pico_VDD"
-		(shape input)
-		(at 104.14 51.562 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6acadbac-6faa-4167-90f6-4119a0b52a3e")
-		(property "Intersheetrefs" "Pico_VDD"
-			(at 104.14 39.8682 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
