@@ -5,7 +5,7 @@ C8,Capacitor_1_2pF,1,1.2 pF,
 D1,LED_SML_D12M1WT86,1,LED,
 "GND1, RX1, TX1, VCC1",Via_Pad,4,~,
 J1,U.FL_R_SMT_01,1,U.FL-R-SMT_01_,
-R1,10kResist,2,10k_Resist,
+"R1,R3",10kResist,2,10k_Resist,
 R2,1kResist,1,1KOhms,
 SW1,boot_button1,1,Button,
 U1,ESP32_PICO_D4,1,ESP32-PICO-D4,
@@ -13,6 +13,7 @@ U2,SX1280IMLTRT,1,SX1280IMLTRT,
 U3,LDO_3v_500mA,1,LDO,
 Y1,Crysta_RF_40MHz,1,Crystal,
 L2,LQW15AN3N3G8ZD,1,Inductor_3.3nH,
+
 
 
 
