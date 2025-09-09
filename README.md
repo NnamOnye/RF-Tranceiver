@@ -1,4 +1,4 @@
-# RF-Tranceiver on 2.4GHz
+# RF-Transceiver on 2.4GHz
 # i utilized Interference Management, when developing the microstrip.
 # i also utilized impedance matching,and ground zones for noise reduction.
 # This design can be used as a receiver and transmitter depending on your application.
